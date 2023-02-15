@@ -1,0 +1,9 @@
+Tools
+
+*Membuat Routing Halaman*
+React Router Dom
+
+Link digunakan jika berada pada tag html nya
+useNavigation digunakana jika dia itu ation misal ada di onclick, Link tidak bisa di taruh di dlmnya, jadi kita harus pake navigation
+
+useLocaction bisa kita pake untuk mendapatkan search nya
